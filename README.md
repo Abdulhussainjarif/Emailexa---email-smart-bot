@@ -1,1 +1,1 @@
-# Emailexa---email-smart-bot
+# Emailexa-email-smartbot
